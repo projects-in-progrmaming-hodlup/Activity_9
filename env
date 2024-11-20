@@ -1,0 +1,7 @@
+# backend/.env
+
+DB_USER=hodl
+DB_PASS=XJh?H0/~o`VJ>f;S
+DB_HOST=34.44.42.132
+DB_NAME=hodl
+CRYPTO_IDS=bitcoin,ethereum,cardano,dogecoin  
